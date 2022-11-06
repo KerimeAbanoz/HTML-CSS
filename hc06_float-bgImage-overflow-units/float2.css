@@ -40,10 +40,10 @@ footer{
     /* height: 10px; */
 }
 
-/* .clear{
-    clear: both;
+.clear{
+    /* clear: both; */
     border: none;
-} */
+}
 
 .clearfix::after{
     content: '';
